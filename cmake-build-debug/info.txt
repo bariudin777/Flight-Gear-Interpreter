@@ -1,0 +1,10 @@
+connect 127.0.0.1 5402
+var rudder = bind "/controls/flight/rudder"
+rudder = 1
+var alt = bind "/instrumentation/altimeter/indicated-altitude-ft"
+alt = 1
+while alt < 10 {
+    print alt
+    alt = alt + 1
+}
+print "done"
