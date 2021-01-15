@@ -25,6 +25,6 @@ And this is where:
 ![](flight-gear%20manu.png)
 
 
-### We also has cmd where the user can control the flight
+### User can control the flight, using cmd:
 
 ![](iterpreter.png)
